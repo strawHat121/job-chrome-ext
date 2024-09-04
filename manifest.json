@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "job-chrome-extension",
+  "description": "Save your job applications into a google docs",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "job-search.png"
+  }
+}
